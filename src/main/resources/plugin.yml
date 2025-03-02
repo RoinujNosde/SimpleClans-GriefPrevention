@@ -1,0 +1,6 @@
+name: "SimpleClans-GriefPrevention"
+version: 1.0-SNAPSHOT
+main: me.roinujnosde.simpleclans.griefprevention.GriefPreventionProvider
+depend:
+  - SimpleClans
+  - GriefPrevention
